@@ -13,11 +13,13 @@ I'm **Djalil Fayazov**, an amateur coder. I have been learning coding since I wa
 
 
 **Backend Developing**
+
 -  **Teamwork**: Mostly i'm coding in solo, but i can join in a group quickly.
 -  **Language**: The easiest way for backend development is Python.
 
 
 **Contact Me**
+
 -  **Email Address**: [djalilfayazov@gmail.com](mail:djalilfayazov@gmail.com)
 -  **Resume/Portfolio**: [My Website](https://djalilfayazov.vercel.app)
 -  **Daily Blog**: [My Daily Blog](https://t.me/everydayroutines)
@@ -26,6 +28,7 @@ I'm **Djalil Fayazov**, an amateur coder. I have been learning coding since I wa
 
 
 **My Advantages**
+
 ![Python Badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
