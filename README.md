@@ -1,33 +1,27 @@
-# Hi guys! 👋
+# Hi there! 👋
 
-I'm **Djalil Fayazov**, an amateur coder. I have been learning coding since I was 13. (since 22/09/2021)
+I'm **Djalil Fayazov**, an amateur coder who has been passionate about coding since the age of 13 (since 22/09/2021).
 
+## About Me
 
-**Something About Me**
+- **Backend Developer** with a strong focus on Python.
+- **Frameworks**: Experienced in Django and Flask.
+- **Projects**: Enjoy building Telegram bots using Aiogram.
+- **Operating Systems**: Proficient in various Linux distributions.
+- **Deployment**: Utilize platforms like Vercel and Pythonanywhere for project deployment.
 
--  **Backend Developer** with a big interest in Python Language.
--  **Django and Flask**: Developing backend side of websites.
--  **Aiogram**: Coding telegram-bots on Aiogram for fun.
--  **Linux user**: I used a various kinds of distributions of Linux OS.
--  **Vercel/Pythonanywhere**: Deploying my projects on services such as Pythonanywhere or Vercel.
+## Backend Development
 
+- **Collaboration**: Comfortable coding solo or in teams.
+- **Preferred Language**: Python for its simplicity and versatility.
 
-**Backend Developing**
+## Get in Touch
 
--  **Teamwork**: Mostly i'm coding in solo, but i can join in a group quickly.
--  **Language**: The easiest way for backend development is Python.
+- **Email**: [djalilfayazov@gmail.com](mailto:djalilfayazov@gmail.com)
+- **Telegram**: [@djalilfayazov](https://t.me/djalilfayazov)
+- **Instagram**: [@djalil.workspace](https://instagram.com/djalil.workspace)
 
-
-**Contact Me**
-
--  **Email Address**: [djalilfayazov@gmail.com](mail:djalilfayazov@gmail.com)
--  **Resume/Portfolio**: [My Website](https://djalilfayazov.vercel.app)
--  **Daily Blog**: [My Daily Blog](https://t.me/everydayroutines)
--  **Telegram**: [Telegram Account](https://t.me/djalilfayazov)
--  **Instagram**: [Instagram Account](https://instagram.com/djalil.workspace)
-
-
-**My Advantages**
+## My Skillset
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -35,5 +29,11 @@ I'm **Djalil Fayazov**, an amateur coder. I have been learning coding since I wa
 ![Django Badge](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask Badge](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Pythonanywhere Badge](https://img.shields.io/badge/Pythonanywhere-3776AB.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Telegram Bots Badge](https://img.shields.io/badge/Telegram_Bots-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
